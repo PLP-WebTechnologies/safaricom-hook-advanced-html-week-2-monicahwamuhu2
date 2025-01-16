@@ -21,6 +21,9 @@ Create an HTML webpage that includes the following:
 **Example Output:**  
 A webpage where users can play an audio track and watch a video.  
 
+![Screenshot (220)](https://github.com/user-attachments/assets/feee9753-eb80-4b73-84d7-a61eb2866bab)
+
+
 ---
 
 ### **Part 2: Registration Form **  
@@ -44,5 +47,8 @@ Design a user registration form with the following requirements:
 
 **Example Output:**  
 A user-friendly registration form that prevents submission if required fields are not filled correctly.  
+
+![Screenshot (221)](https://github.com/user-attachments/assets/8024039c-4f54-4caa-9124-086a8f309078)
+
 
 ---
